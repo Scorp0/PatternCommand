@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\PatternCommand\bin\Debug\PatternCommand.exe.config
+C:\Users\admin\source\repos\PatternCommand\bin\Debug\PatternCommand.exe
+C:\Users\admin\source\repos\PatternCommand\bin\Debug\PatternCommand.pdb
+C:\Users\admin\source\repos\PatternCommand\obj\Debug\PatternCommand.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PatternCommand\obj\Debug\PatternCommand.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PatternCommand\obj\Debug\PatternCommand.exe
+C:\Users\admin\source\repos\PatternCommand\obj\Debug\PatternCommand.pdb
